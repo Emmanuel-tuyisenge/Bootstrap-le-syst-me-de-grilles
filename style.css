@@ -1,0 +1,32 @@
+.container
+{
+    width: 600px;
+    height: 700px;
+}
+h1{
+    text-align: center;
+
+}
+
+.container .row div
+{
+    width: 45px;
+    height: 45px;
+    border: 1px solid #FFF;
+    background-color: #FFF;
+}
+ 
+.container .row div.black
+{
+    background-color:black;
+}
+ 
+.container .row div.orange
+{
+    background-color:#ff8400e3;
+}
+ 
+.container .row div.yellow
+{
+    background-color:#ffe100f0;
+}
